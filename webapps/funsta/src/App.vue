@@ -199,6 +199,9 @@ export default {
       {
         userName: "oliver",
         userId: 15,
+
+
+        
         description: "My latest drawing",
         img: import("./postImages/post2.jpeg"),
         likedUsers: ["ben", "dan", "fay"],
